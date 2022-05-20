@@ -22,10 +22,10 @@ msgid "Perform PowerOff"
 msgstr "执行关机"
 
 msgid "Warning: There are unsaved changes that will get lost on shutting down!"
-msgstr "警告：没保存的改动在关机的时候都会丢失！别惊讶，要么保存，要么放弃"
+msgstr "警告：有未保存的更改将在关闭时丢失"
 
 msgid "Waiting for device..."
-msgstr "设备有点懵，要等一下..."
+msgstr "正在等待设备..."
 
 msgid "Router is shutting down..."
-msgstr "正在关机，说啥也不好使了..."
+msgstr "openwrt正在关闭..."
